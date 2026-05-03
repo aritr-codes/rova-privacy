@@ -75,4 +75,4 @@ If the app's behavior changes (for example, if a future release adds crash repor
 
 ## Contact
 
-For privacy questions about Rova, contact: **[contact email — to be added before public release]**.
+For privacy questions about Rova, contact: **[aritr.g06@gmail.com]**.
